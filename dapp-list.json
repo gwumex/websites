@@ -1,18 +1,18 @@
 {
   "banners": [
     {
-      "title": "Discover NFTs",
-      "image": "https://example.com/banners/nft-banner.jpg",
+      "title": "Koii network",
+      "image": "https://cdn.jsdelivr.net/gh/gwumex/websites@main/assets/koii.png",
       "link": "https://koii.network"
     },
     {
-      "title": "Swap Tokens",
-      "image": "https://example.com/banners/dex-banner.jpg",
+      "title": "Welcome to Bii wallet",
+      "image": "https://cdn.jsdelivr.net/gh/gwumex/websites@main/assets/biiwallet.png",
       "link": ""
     },
     {
-      "title": "Bridge Your Assets",
-      "image": "https://example.com/banners/bridge-banner.jpg",
+      "title": "Bii points",
+      "image": "https://cdn.jsdelivr.net/gh/gwumex/websites@main/assets/biipoints.png",
       "link": ""
     }
   ],
