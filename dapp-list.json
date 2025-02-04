@@ -1,0 +1,133 @@
+{
+  "banners": [
+    {
+      "title": "Summer Sale",
+      "image": "https://example.com/banners/summer-sale.jpg",
+      "link": "https://featured-dapp.com/sale"
+    },
+    {
+      "title": "New NFT Marketplace",
+      "image": "https://example.com/banners/nft-marketplace.jpg",
+      "link": "https://nftdapp.com"
+    },
+    {
+      "title": "Bridge Your Tokens",
+      "image": "https://example.com/banners/token-bridge.jpg",
+      "link": "https://tokenbridge.com"
+    }
+  ],
+  "featured": [
+    {
+      "title": "Featured NFT DApp",
+      "url": "https://featured-nft.com",
+      "icon": "https://featured-nft.com/favicon.ico",
+      "category": "nft",
+      "description": "Discover exclusive NFTs and art."
+    },
+    {
+      "title": "Top DEX Platform",
+      "url": "https://topdex.com",
+      "icon": "https://topdex.com/favicon.ico",
+      "category": "dex",
+      "description": "Swap tokens instantly on our decentralized exchange."
+    }
+  ],
+  "categories": {
+    "all": [
+      {
+        "title": "General DApp",
+        "url": "https://general-dapp.com",
+        "icon": "https://general-dapp.com/favicon.ico",
+        "description": "A general purpose decentralized application."
+      }
+    ],
+    "nft": [
+      {
+        "title": "NFT Marketplace",
+        "url": "https://nftmarketplace.com",
+        "icon": "https://nftmarketplace.com/favicon.ico",
+        "description": "Buy, sell, and trade NFTs."
+      }
+    ],
+    "dex": [
+      {
+        "title": "Decentralized Exchange",
+        "url": "https://dexplatform.com",
+        "icon": "https://dexplatform.com/favicon.ico",
+        "description": "Trade cryptocurrencies in a decentralized way."
+      }
+    ],
+    "tools": [
+      {
+        "title": "Crypto Wallet Tools",
+        "url": "https://wallettools.com",
+        "icon": "https://wallettools.com/favicon.ico",
+        "description": "Manage your wallet, track your balance, and more."
+      }
+    ],
+    "games": [
+      {
+        "title": "Blockchain Game",
+        "url": "https://blockchaingame.com",
+        "icon": "https://blockchaingame.com/favicon.ico",
+        "description": "Play games on the blockchain and earn rewards."
+      }
+    ],
+    "meme": [
+      {
+        "title": "Meme DApp",
+        "url": "https://memedapp.com",
+        "icon": "https://memedapp.com/favicon.ico",
+        "description": "Get your daily dose of crypto memes."
+      }
+    ],
+    "gaming": [
+      {
+        "title": "Gaming Hub",
+        "url": "https://gaminghub.com",
+        "icon": "https://gaminghub.com/favicon.ico",
+        "description": "A one-stop-shop for blockchain gaming."
+      }
+    ],
+    "staking": [
+      {
+        "title": "Staking Platform",
+        "url": "https://stakingplatform.com",
+        "icon": "https://stakingplatform.com/favicon.ico",
+        "description": "Stake your tokens and earn rewards."
+      }
+    ],
+    "bridge": [
+      {
+        "title": "Token Bridge",
+        "url": "https://tokenbridge.com",
+        "icon": "https://tokenbridge.com/favicon.ico",
+        "description": "Transfer tokens across blockchains."
+      }
+    ],
+    "governance": [
+      {
+        "title": "DAO Governance",
+        "url": "https://daogovernance.com",
+        "icon": "https://daogovernance.com/favicon.ico",
+        "description": "Participate in decentralized governance."
+      }
+    ],
+    "crowdfunding": [
+      {
+        "title": "Crypto Crowdfunding",
+        "url": "https://cryptocrowdfunding.com",
+        "icon": "https://cryptocrowdfunding.com/favicon.ico",
+        "description": "Raise funds and support projects using crypto."
+      }
+    ],
+    "utilities": [
+      {
+        "title": "Blockchain Utilities",
+        "url": "https://blockchainutilities.com",
+        "icon": "https://blockchainutilities.com/favicon.ico",
+        "description": "Various tools and utilities for crypto users."
+      }
+    ]
+  }
+}
