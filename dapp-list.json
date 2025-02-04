@@ -1,133 +1,107 @@
 {
   "banners": [
     {
-      "title": "Summer Sale",
-      "image": "https://example.com/banners/summer-sale.jpg",
-      "link": "https://featured-dapp.com/sale"
+      "title": "Discover NFTs",
+      "image": "https://example.com/banners/nft-banner.jpg",
+      "link": "https://opensea.io"
     },
     {
-      "title": "New NFT Marketplace",
-      "image": "https://example.com/banners/nft-marketplace.jpg",
-      "link": "https://nftdapp.com"
+      "title": "Swap Tokens",
+      "image": "https://example.com/banners/dex-banner.jpg",
+      "link": "https://uniswap.org"
     },
     {
-      "title": "Bridge Your Tokens",
-      "image": "https://example.com/banners/token-bridge.jpg",
-      "link": "https://tokenbridge.com"
+      "title": "Bridge Your Assets",
+      "image": "https://example.com/banners/bridge-banner.jpg",
+      "link": "https://polygon.technology"
     }
   ],
   "featured": [
     {
-      "title": "Featured NFT DApp",
-      "url": "https://featured-nft.com",
-      "icon": "https://featured-nft.com/favicon.ico",
-      "category": "nft",
-      "description": "Discover exclusive NFTs and art."
+      "title": "OpenSea",
+      "url": "https://opensea.io",
+      "icon": "https://opensea.io/favicon.ico",
+      "categories": ["nft", "marketplace"],
+      "description": "Leading NFT marketplace."
     },
     {
-      "title": "Top DEX Platform",
-      "url": "https://topdex.com",
-      "icon": "https://topdex.com/favicon.ico",
-      "category": "dex",
-      "description": "Swap tokens instantly on our decentralized exchange."
+      "title": "Uniswap",
+      "url": "https://uniswap.org",
+      "icon": "https://uniswap.org/favicon.ico",
+      "categories": ["dex", "finance"],
+      "description": "Popular decentralized exchange."
     }
   ],
-  "categories": {
-    "all": [
-      {
-        "title": "General DApp",
-        "url": "https://general-dapp.com",
-        "icon": "https://general-dapp.com/favicon.ico",
-        "description": "A general purpose decentralized application."
-      }
-    ],
-    "nft": [
-      {
-        "title": "NFT Marketplace",
-        "url": "https://nftmarketplace.com",
-        "icon": "https://nftmarketplace.com/favicon.ico",
-        "description": "Buy, sell, and trade NFTs."
-      }
-    ],
-    "dex": [
-      {
-        "title": "Decentralized Exchange",
-        "url": "https://dexplatform.com",
-        "icon": "https://dexplatform.com/favicon.ico",
-        "description": "Trade cryptocurrencies in a decentralized way."
-      }
-    ],
-    "tools": [
-      {
-        "title": "Crypto Wallet Tools",
-        "url": "https://wallettools.com",
-        "icon": "https://wallettools.com/favicon.ico",
-        "description": "Manage your wallet, track your balance, and more."
-      }
-    ],
-    "games": [
-      {
-        "title": "Blockchain Game",
-        "url": "https://blockchaingame.com",
-        "icon": "https://blockchaingame.com/favicon.ico",
-        "description": "Play games on the blockchain and earn rewards."
-      }
-    ],
-    "meme": [
-      {
-        "title": "Meme DApp",
-        "url": "https://memedapp.com",
-        "icon": "https://memedapp.com/favicon.ico",
-        "description": "Get your daily dose of crypto memes."
-      }
-    ],
-    "gaming": [
-      {
-        "title": "Gaming Hub",
-        "url": "https://gaminghub.com",
-        "icon": "https://gaminghub.com/favicon.ico",
-        "description": "A one-stop-shop for blockchain gaming."
-      }
-    ],
-    "staking": [
-      {
-        "title": "Staking Platform",
-        "url": "https://stakingplatform.com",
-        "icon": "https://stakingplatform.com/favicon.ico",
-        "description": "Stake your tokens and earn rewards."
-      }
-    ],
-    "bridge": [
-      {
-        "title": "Token Bridge",
-        "url": "https://tokenbridge.com",
-        "icon": "https://tokenbridge.com/favicon.ico",
-        "description": "Transfer tokens across blockchains."
-      }
-    ],
-    "governance": [
-      {
-        "title": "DAO Governance",
-        "url": "https://daogovernance.com",
-        "icon": "https://daogovernance.com/favicon.ico",
-        "description": "Participate in decentralized governance."
-      }
-    ],
-    "crowdfunding": [
-      {
-        "title": "Crypto Crowdfunding",
-        "url": "https://cryptocrowdfunding.com",
-        "icon": "https://cryptocrowdfunding.com/favicon.ico",
-        "description": "Raise funds and support projects using crypto."
-      }
-    ],
-    "utilities": [
-      {
-        "title": "Blockchain Utilities",
-        "url": "https://blockchainutilities.com",
-        "icon": "https://blockchainutilities.com/favicon.ico",
-        "description": "Various tools and utilities for crypto users."
-      }
-    ]
-  }
+  "websites": [
+    {
+      "title": "OpenSea",
+      "url": "https://opensea.io",
+      "icon": "https://opensea.io/favicon.ico",
+      "categories": ["all", "nft", "marketplace"],
+      "description": "Leading NFT marketplace."
+    },
+    {
+      "title": "Uniswap",
+      "url": "https://uniswap.org",
+      "icon": "https://uniswap.org/favicon.ico",
+      "categories": ["all", "dex", "finance"],
+      "description": "Popular decentralized exchange."
+    },
+    {
+      "title": "Aave",
+      "url": "https://aave.com",
+      "icon": "https://aave.com/favicon.ico",
+      "categories": ["all", "finance", "staking"],
+      "description": "Decentralized finance lending protocol."
+    },
+    {
+      "title": "Compound",
+      "url": "https://compound.finance",
+      "icon": "https://compound.finance/favicon.ico",
+      "categories": ["all", "finance", "staking"],
+      "description": "Algorithmic, autonomous interest rate protocol."
+    },
+    {
+      "title": "SushiSwap",
+      "url": "https://sushi.com",
+      "icon": "https://sushi.com/favicon.ico",
+      "categories": ["all", "dex", "finance"],
+      "description": "Decentralized exchange and yield farming platform."
+    },
+    {
+      "title": "Axie Infinity",
+      "url": "https://axieinfinity.com",
+      "icon": "https://axieinfinity.com/favicon.ico",
+      "categories": ["all", "games", "gaming", "nft"],
+      "description": "Blockchain-based game where players earn rewards."
+    },
+    {
+      "title": "Rarible",
+      "url": "https://rarible.com",
+      "icon": "https://rarible.com/favicon.ico",
+      "categories": ["all", "nft", "marketplace"],
+      "description": "Community-owned NFT marketplace."
+    },
+    {
+      "title": "1inch",
+      "url": "https://1inch.io",
+      "icon": "https://1inch.io/favicon.ico",
+      "categories": ["all", "dex", "finance"],
+      "description": "Decentralized exchange aggregator."
+    },
+    {
+      "title": "Decentraland",
+      "url": "https://decentraland.org",
+      "icon": "https://decentraland.org/favicon.ico",
+      "categories": ["all", "games", "gaming", "metaverse"],
+      "description": "Virtual world for buying, selling, and building on land."
+    },
+    {
+      "title": "Balancer",
+      "url": "https://balancer.finance",
+      "icon": "https://balancer.finance/favicon.ico",
+      "categories": ["all", "dex", "finance"],
+      "description": "Automated portfolio manager and liquidity provider."
+    }
+  ]
 }
