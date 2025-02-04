@@ -14,6 +14,11 @@
       "title": "Bii points",
       "image": "https://cdn.jsdelivr.net/gh/gwumex/websites@main/assets/biipoints.png",
       "link": ""
+    },
+    {
+      "title": "Run Koii node",
+      "image": "https://cdn.jsdelivr.net/gh/gwumex/websites@main/assets/create_a_gateway.png",
+      "link": "https://koii.network"
     }
   ],
   "featured": [
