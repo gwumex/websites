@@ -3,17 +3,17 @@
     {
       "title": "Discover NFTs",
       "image": "https://example.com/banners/nft-banner.jpg",
-      "link": "https://opensea.io"
+      "link": "https://koii.network"
     },
     {
       "title": "Swap Tokens",
       "image": "https://example.com/banners/dex-banner.jpg",
-      "link": "https://uniswap.org"
+      "link": ""
     },
     {
       "title": "Bridge Your Assets",
       "image": "https://example.com/banners/bridge-banner.jpg",
-      "link": "https://polygon.technology"
+      "link": ""
     }
   ],
   "featured": [
