@@ -77,7 +77,7 @@
       "title": "Axie Infinity",
       "url": "https://axieinfinity.com",
       "icon": "https://axieinfinity.com/favicon.ico",
-      "categories": ["all", "games", "gaming", "nft"],
+      "categories": ["all", "gaming", "nft"],
       "description": "Blockchain-based game where players earn rewards."
     },
     {
@@ -98,7 +98,7 @@
       "title": "Decentraland",
       "url": "https://decentraland.org",
       "icon": "https://decentraland.org/favicon.ico",
-      "categories": ["all", "games", "gaming", "metaverse"],
+      "categories": ["all", "gaming", "metaverse"],
       "description": "Virtual world for buying, selling, and building on land."
     },
     {
