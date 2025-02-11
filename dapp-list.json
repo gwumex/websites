@@ -23,17 +23,17 @@
   ],
   "featured": [
     {
-      "title": "OpenSea",
-      "url": "https://opensea.io",
-      "icon": "https://opensea.io/favicon.ico",
-      "categories": ["nft", "marketplace"],
+      "title": "Vesting-portal",
+      "url": "https://vesting-portal.koii.network",
+      "icon": "https://vesting-portal.koii.network/favicon.ico",
+      "categories": ["staking", "finance"],
       "description": "Leading NFT marketplace."
     },
     {
-      "title": "Uniswap",
-      "url": "https://uniswap.org",
-      "icon": "https://uniswap.org/favicon.ico",
-      "categories": ["dex", "finance"],
+      "title": "Haji",
+      "url": "https://haji.ro",
+      "icon": "https://haji.ro/favicon.ico",
+      "categories": ["staking", "finance"],
       "description": "Popular decentralized exchange."
     }
   ],
